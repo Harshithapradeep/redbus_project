@@ -1,0 +1,87 @@
+bus_route_name,bus_route_link,bus_name,bus_type,departing_time,duration,reaching_time,start_rating,price,seat_availability
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,04:00,05h 30m,09:30,4.3,361,"10 Seats available
+4 Window"
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,Non AC Seater (2+2),04:30,05h 00m,09:30,4.3,361,4 Seats available
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),10:00,06h 00m,16:00,4.5,400,"15 Seats available
+3 Single"
+Diphu to Guwahati,https://www.redbus.in/bus-tickets/diphu-to-guwahati,Kareng Travels,Non AC Seater (2+1),11:15,05h 15m,16:30,4.1,380,"27 Seats available
+5 Single"
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,06h 15m,17:45,4.7,361,"41 Seats available
+19 Window"
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,Non AC Seater (2+1),05:00,05h 45m,10:45,4.0,380,"8 Seats available
+2 Single"
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,A/C Seater (2+1),09:30,06h 45m,16:15,4.3,400,"17 Seats available
+4 Single"
+Guwahati to Diphu,https://www.redbus.in/bus-tickets/guwahati-to-diphu,Kareng Travels,Non AC Seater (2+2),11:45,06h 45m,18:30,4.4,361,"42 Seats available
+20 Window"
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,05:00,04h 30m,09:30,3.5,299,"19 Seats available
+7 Window"
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),11:15,04h 45m,16:00,4.5,300,"17 Seats available
+3 Single"
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,Non AC Seater (2+2),05:30,04h 00m,09:30,4.4,285,"5 Seats available
+1 Window"
+Bokolia (assam) to Guwahati,https://www.redbus.in/bus-tickets/bokolia-assam-to-guwahati,Kareng Travels,Non AC Seater (2+1),12:15,04h 15m,16:30,3.8,300,"27 Seats available
+5 Single"
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,05:45,03h 45m,09:30,4.2,250,"11 Seats available
+4 Window"
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,Non AC Seater (2+2),06:00,03h 30m,09:30,3.4,266,4 Seats available
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),11:45,04h 15m,16:00,4.3,300,"17 Seats available
+3 Single"
+Dokmoka to Guwahati,https://www.redbus.in/bus-tickets/dokmoka-to-guwahati,Kareng Travels,Non AC Seater (2+1),12:45,03h 45m,16:30,4.4,280,"27 Seats available
+5 Single"
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,03h 15m,14:45,3.9,250,"41 Seats available
+19 Window"
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,Non AC Seater (2+1),05:00,03h 45m,08:45,4.3,280,"11 Seats available
+2 Single"
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,A/C Seater (2+1),09:30,04h 30m,14:00,4.4,300,"17 Seats available
+4 Single"
+Guwahati to Dokmoka,https://www.redbus.in/bus-tickets/guwahati-to-dokmoka,Kareng Travels,Non AC Seater (2+2),11:45,04h 15m,16:00,4.6,266,"42 Seats available
+20 Window"
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,04h 15m,15:45,4.2,299,"43 Seats available
+21 Window"
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,A/C Seater (2+1),09:30,05h 15m,14:45,4.3,300,"17 Seats available
+4 Single"
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,Non AC Seater (2+1),05:00,04h 30m,09:30,4.3,300,"11 Seats available
+2 Single"
+Guwahati to Bokolia (assam),https://www.redbus.in/bus-tickets/guwahati-to-bokolia-assam,Kareng Travels,Non AC Seater (2+2),11:45,04h 45m,16:30,3.9,285,"42 Seats available
+20 Window"
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,05:30,04h 00m,09:30,4.2,266,"13 Seats available
+5 Window"
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,Non AC Seater (2+1),12:30,04h 00m,16:30,4.4,300,"29 Seats available
+7 Single"
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,Non AC Seater (2+2),05:45,03h 45m,09:30,4.3,285,"8 Seats available
+2 Window"
+Langhin (assam) to Guwahati,https://www.redbus.in/bus-tickets/langhin-assam-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),11:30,04h 30m,16:00,3.9,300,"17 Seats available
+3 Single"
+Diphu to Hamren,https://www.redbus.in/bus-tickets/diphu-to-hamren,KAAC TRANSPORT - 157442,Non AC Seater 2+2,04:30,06h 00m,10:30,3.3,300,"28 Seats available
+13 Window"
+Diphu to Hamren,https://www.redbus.in/bus-tickets/diphu-to-hamren,KAAC TRANSPORT - 175492,Non AC Seater (2+2),13:00,04h 30m,17:30,3.3,246,"41 Seats available
+20 Window"
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,03h 30m,15:00,3.3,266,"43 Seats available
+21 Window"
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,Non AC Seater (2+1),05:00,04h 00m,09:00,4.3,300,"14 Seats available
+4 Single"
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,Non AC Seater (2+2),11:45,04h 30m,16:15,4.1,285,"42 Seats available
+20 Window"
+Guwahati to Langhin (assam),https://www.redbus.in/bus-tickets/guwahati-to-langhin-assam,Kareng Travels,A/C Seater (2+1),09:30,04h 45m,14:15,3.9,300,"21 Seats available
+4 Single"
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,KAAC TRANSPORT - 157250,Non AC Seater 2+2,11:30,05h 30m,17:00,3.8,350,"43 Seats available
+21 Window"
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,A/C Seater (2+1),09:30,06h 15m,15:45,4.9,400,"31 Seats available
+8 Single"
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,Non AC Seater (2+2),11:45,06h 15m,18:00,4.4,342,"42 Seats available
+20 Window"
+Guwahati to Manja (assam),https://www.redbus.in/bus-tickets/guwahati-to-manja-assam,Kareng Travels,Non AC Seater (2+1),05:00,05h 15m,10:15,2.9,360,"14 Seats available
+4 Single"
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,KAAC TRANSPORT - 157249,Non AC Seater 2+2,04:20,05h 10m,09:30,4.8,350,"35 Seats available
+16 Window"
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,Bharat Benz A/C Seater (2+1),10:15,05h 45m,16:00,4.7,400,"18 Seats available
+4 Single"
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,Non AC Seater (2+1),11:30,05h 00m,16:30,3.8,360,"28 Seats available
+6 Single"
+Manja (assam) to Guwahati,https://www.redbus.in/bus-tickets/manja-assam-to-guwahati,Kareng Travels,Non AC Seater (2+2),04:45,04h 45m,09:30,3.4,342,"12 Seats available
+4 Window"
+Hamren to Diphu,https://www.redbus.in/bus-tickets/hamren-to-diphu,KAAC TRANSPORT - 175491,Non AC Seater (2+2),05:30,04h 50m,10:20,2.6,246,"40 Seats available
+20 Window"
+Hamren to Diphu,https://www.redbus.in/bus-tickets/hamren-to-diphu,KAAC TRANSPORT - 157443,Non AC Seater 2+2,11:45,06h 15m,18:00,2.6,300,"41 Seats available
+20 Window"

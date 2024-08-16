@@ -1,0 +1,8 @@
+selenium
+pandas
+pandasql
+numpy
+mysql-connector-python
+SQLAlchemy
+streamlit
+streamlit-option-menu
