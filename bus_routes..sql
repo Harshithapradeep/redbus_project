@@ -16,7 +16,7 @@ reaching_time TIME,
 star_rating	FLOAT,
 price DECIMAL(10,2),
 seats_available	INT,
-filename TEXT
+rtc_name TEXT
 );
 
 -- Displays all records
