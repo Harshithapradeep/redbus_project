@@ -128,3 +128,19 @@ Example 2: **PEPSU**
 
 ![screenshot](./images/image6.png)
 
+
+
+
+## Steps to execute this project
+
+**Step 1:** Install the python libraries required for this project using requirements.txt
+
+**Step 2:** Execute respective RTC.ipynb files for all the RTC and its output CSV file will be generated in output_csv folder.
+
+**Step 3:** Execute bus_routes.sql file in MySQL to create redbus databse schema and bus_routes table.
+
+**Step 4:** Execute Redbus_mysql.ipynb notebook to load all the csv files into bus_routes table in MySQL.
+
+**Step 5:** Execute Streamlit_Final.py to load the streamlit app in browser with below command 
+streamlit run Streamlit_Final.py
+
