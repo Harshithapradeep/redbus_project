@@ -26,7 +26,7 @@ bus services available on the redbus website using
         filter out bus routes.
         - Bus routes as per convenient bus schedules along with travel
         duration.
-        - Provide better seat availability search.
+        - Provide better seat type search.
         - Bus services based on star rating.
         - Bus schedules to determine customer needs based on starting and
         reaching time.
