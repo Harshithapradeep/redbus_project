@@ -218,7 +218,7 @@ def route_name_filter(df,rtc_name):
 
 
 #Getting the rtc_bus service names 
-rtc_bus_list=['APSRTC','ASTC','BSRTC' ,'CTU RTC', 'JKSRTC', 'KAAC' ,'KSRTC_KERALA', 'KTCL', 'NBSTC','PEPSU' ,'WBTC', 'HRTC']
+rtc_bus_list=['APSRTC', 'ASTC', 'BSRTC', 'CTU RTC', 'HRTC','JKSRTC', 'KAAC', 'KSRTC_KERALA', 'KTCL', 'NBSTC', 'PEPSU', 'WBTC']
 if selected in (rtc_bus_list):
     st.subheader(f"{selected}", anchor=None,  help=None, divider="red")
     st.dataframe(route_name_filter(df,selected))
